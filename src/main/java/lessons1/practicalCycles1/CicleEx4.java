@@ -15,25 +15,17 @@ public class CicleEx4 {
         int b = scanNum.nextInt();
         System.out.println("second - "+ b);
 
-        if (a <= b) {
-            int n = b - a;
-            for (int i = 0; i < n + 1; i++) {
+  //     if (a <= b) {
+  //         int sum = 0;
+  //         int n = b - a;
+  //         for (int i = 0; i < n + 1; i++) {
 
-               int g = a + 1;
-               int c = a++;
-               int sum = c + g ;
-               System.out.println(c);
-              System.out.println("Сума - "+sum);
-                }
-
-        }else
-        if(a > b){
-            int n = a - b;
-            for (int i = 0; i < n +1; i++) {
-                int c = b++;
-                System.out.println(c);
-
-            }
+  //            sum = (n + 1) * n / 2;
+  //             a++;
+  //             //System.out.print("a"+a++);
+  //             System.out.println(sum);
+  //             }
+  //         System.out.println(sum);
 
 
         }
@@ -41,5 +33,6 @@ public class CicleEx4 {
 
 
 
-    }
+
+
 }
