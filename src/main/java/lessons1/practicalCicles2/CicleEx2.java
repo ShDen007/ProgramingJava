@@ -14,7 +14,7 @@ public class CicleEx2 {
         Scanner scan = new Scanner(System.in);
         int size = scan.nextInt();
 
-        for(int i = 1; i <= size; i++) {
+        for (int i = 1; i <= size; i++) {
             for (int j = 1; j <= size; j++) {
                 if (i == 1 || i == size)
                     System.out.print("* ");
@@ -22,12 +22,12 @@ public class CicleEx2 {
                     System.out.print("* ");
                 else
                     System.out.print("  ");
-                }
-                System.out.println();
             }
-            scan.close();
-
+            System.out.println();
         }
+        scan.close();
+
+    }
 
 
 }
