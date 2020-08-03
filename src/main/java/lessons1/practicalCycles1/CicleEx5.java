@@ -25,7 +25,7 @@ public class CicleEx5 {
 
 
 
-
+scan.close();
 
     }
 }

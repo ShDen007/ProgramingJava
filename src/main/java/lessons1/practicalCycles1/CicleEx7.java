@@ -31,6 +31,6 @@ public class CicleEx7 {
 
 
 
-
+scan.close();
     }
 }

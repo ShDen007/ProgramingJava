@@ -34,7 +34,7 @@ public class CicleEx3 {
             }
 
 
-        }
+        }scan2.close();
     }
 }
 

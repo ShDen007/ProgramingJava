@@ -1,10 +1,8 @@
-package lessons1.practicalCycles1;
+package lessons1.practicalCicles2;
 
 import java.util.Scanner;
-//Задание 2
-//Пользователь вводит с клавиатуры два числа. Нужно
-//показать все четные числа в указанном диапазоне.
-public class CicleEx2 {
+
+public class CicleEx4 {
     public static void main(String[] args) {
         Scanner scan1 = new Scanner(System.in);
         System.out.println("Enter first number");
@@ -33,4 +31,6 @@ public class CicleEx2 {
 
         }scan1.close();
     }
+
+
 }

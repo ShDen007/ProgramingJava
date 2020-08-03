@@ -24,6 +24,6 @@ public class CicleEx41 {
             System.out.println(res);
         }
 
-
+scan.close();
     }
 }

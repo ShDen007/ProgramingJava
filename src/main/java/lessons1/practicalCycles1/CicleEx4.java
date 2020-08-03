@@ -27,7 +27,7 @@ public class CicleEx4 {
   //             }
   //         System.out.println(sum);
 
-
+scanNum.close();
         }
 
 

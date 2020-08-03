@@ -7,7 +7,7 @@ public class CicleEx {
         for (int i = 0; i < 10; i++) {
             int c = a + b++;
 
-        System.out.println("Digite - " + c);
+        System.out.println("number - " + c);
     }
     }
 

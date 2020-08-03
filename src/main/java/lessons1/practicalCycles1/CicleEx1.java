@@ -28,7 +28,7 @@ public class CicleEx1 {
 
             }
 
-        }
+        }scan1.close();
 
     }
 }
