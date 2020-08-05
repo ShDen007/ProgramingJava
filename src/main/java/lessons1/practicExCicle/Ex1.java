@@ -1,4 +1,4 @@
-package lessons1.practicEx;
+package lessons1.practicExCicle;
 
 public class Ex1 {
     public static void main(String[] args) {
